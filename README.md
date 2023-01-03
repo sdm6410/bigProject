@@ -1,1 +1,1 @@
-![캡처]<img src="C:/Users/User/Desktop/main.PNG" width="400px " height="400px">
+![main](https://user-images.githubusercontent.com/41135138/210370453-0eef90f1-bda4-48c0-9695-4afe99c937e2.PNG)
