@@ -1,1 +1,1 @@
-!<img src="C:\Users\User\Desktop\main.png" width="너비 " height="높이">
+!<img src="C:/Users/User/Desktop/main.png" width="400px " height="400px">
