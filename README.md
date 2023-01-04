@@ -60,6 +60,23 @@
 ![아키텍쳐설계](https://user-images.githubusercontent.com/41135138/210468355-a1f91d4a-9280-46b0-8307-f94ede63c7e7.PNG)
 ## 7. 환경설정
 
+### Front-End
+![image](https://user-images.githubusercontent.com/41135138/210484689-e8bfc523-80cd-4c1b-9bb8-43a864f1babc.png)
+![image](https://user-images.githubusercontent.com/41135138/210484717-49f28050-5b8d-433f-ab10-e6084df3989e.png)
+![image](https://user-images.githubusercontent.com/41135138/210484721-2776d5ca-1b5d-4aaf-bedf-2d91e9122e5b.png)
+![image](https://user-images.githubusercontent.com/41135138/210484736-4ded368a-4a68-473d-8df4-997f919b8a6a.png)
+![image](https://user-images.githubusercontent.com/41135138/210484740-85356785-6de2-4350-9bfc-11806bc72ef5.png)
+
+### Back-End
+![image](https://user-images.githubusercontent.com/41135138/210484787-ecc61a61-1817-4879-9209-5e419161b567.png)
+![image](https://user-images.githubusercontent.com/41135138/210485384-d7071497-e70f-4aca-820b-c97dd94bb1b8.png)
+![image](https://user-images.githubusercontent.com/41135138/210484803-e4839f96-5f73-4253-aad6-4b44bbb1e811.png)
+
+### AI Model
+![image](https://user-images.githubusercontent.com/41135138/210484818-362e9daf-18ea-48a6-b931-2eeac4666ded.png)
+![image](https://user-images.githubusercontent.com/41135138/210484823-accd60fc-07e9-4334-9b26-060207de3837.png)
+
+
 ## 8. 팀소개
 
 
