@@ -38,15 +38,14 @@
 >-
 
 ## 3. 기대효과
-:heavy_check_mark: 소요 시간, 분석 비용 감소
-   - 크롤링으로 간편한 데이터 수집 및 AI 모델을 이용한 자동 분석으로 분석 비용 감소
-
-:heavy_check_mark: 고객 만족 극대화
-   - 분석 결과를 통한 단점 파악 및 고객이 불편을 느끼는 부분 개선
-
-
-:heavy_check_mark: 마케팅 활용
-   - 상품 및 서비스의 장점을 마케팅 포인트로 활용
+>:heavy_check_mark: 소요 시간, 분석 비용 감소
+>   - 크롤링으로 간편한 데이터 수집 및 AI 모델을 이용한 자동 분석으로 분석 비용 감소
+>
+>:heavy_check_mark: 고객 만족 극대화
+>   - 분석 결과를 통한 단점 파악 및 고객이 불편을 느끼는 부분 개선
+>
+>:heavy_check_mark: 마케팅 활용
+>   - 상품 및 서비스의 장점을 마케팅 포인트로 활용
 ## 4. 서비스 플로우
 ![sevice_flow](https://user-images.githubusercontent.com/41135138/210466263-8d5f5d54-de79-4a74-820a-71cd9fc1c75b.PNG)
 
