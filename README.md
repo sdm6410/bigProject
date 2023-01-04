@@ -78,7 +78,6 @@
 
 
 ## 8. 팀소개
-
-
+![team](https://user-images.githubusercontent.com/41135138/210491903-b33a1305-fa00-4b20-be00-9c7a66c81e15.png)
 
 
