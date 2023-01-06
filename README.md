@@ -55,7 +55,8 @@
 
 ## 6. 아키텍처
 ### 6.1 ERD 설계
-![MicrosoftTeams-image (3)](https://user-images.githubusercontent.com/41135138/210468071-3b1ce182-7b10-44af-9b77-e718f6d28c1a.png)
+![ERD](https://user-images.githubusercontent.com/41135138/210931808-78d3f9c2-0c5c-4fd8-bcfc-c8719a5d8d65.png)
+
 ### 6.2 아키텍쳐 설계
 ![아키텍쳐설계](https://user-images.githubusercontent.com/41135138/210468355-a1f91d4a-9280-46b0-8307-f94ede63c7e7.PNG)
 ## 7. 환경설정
