@@ -1,16 +1,23 @@
-# 구매후기 한 줄에 고객의 이런 속마음이.. 우리가 속 시원히 풀어줄게! 
+# 지금 우리 회사는
+### 구매후기 한 줄에 고객의 이런 속마음이.. 우리가 속 시원히 풀어줄게! 
 
 ![main](https://user-images.githubusercontent.com/41135138/210370453-0eef90f1-bda4-48c0-9695-4afe99c937e2.PNG)
+
 ********
->안녕하세요 😉 저희는 JW DATA LAB팀 입니다.   
+<p>
+안녕하세요😉 저희는 JW데이터랩입니다.<br>
+검색창에 한 단어만 입력하고 조금만 기다려 주세요!<br>
+사업 상품과 서비스의 현위치를 파악하고, 강점·약점에 대한 분석을 보여드립니다.<br>
+유튜브, 네이버 기사, 블로그의 반응을 수집하고 인공지능을 통해 이것이 긍정적인지 부정적인지를 바로 알아 보세요.</p>
+
+>KT AIVLE School 2기 Big Project 24조 (AI부산경남1반 3조)
 >
->KT AIVLE SCHOOL 2기 BigProject 24조 (AI부산경남1반 3조)
+>1️⃣ 개발기간: 2022. 11. 28. - 2023. 01. 18.
 >
->1️⃣ 개발기간 : 2022/11/28 ~ 2023/01/18
+>2️⃣ 개발자: 강호준, 문기범, 신동명, 양진수, 이정원, 오현주, 전준우, 황수현 <br>
+<img src="https://user-images.githubusercontent.com/41135138/210491903-b33a1305-fa00-4b20-be00-9c7a66c81e15.png" width="600" height="308"></br></br>
 >
->2️⃣ 개발자 : 에이블러 강호준, 문기범, 신동명, 양진수, 이정원, 오현주, 전준우, 황수현
->
->3️⃣ 담당튜터 : 권선일멘토님, 담당매니저 : 김하나매니저님
+>3️⃣ 담당튜터: 권선일멘토님, 담당매니저 : 김하나매니저님
 </br>
 </br>
 
@@ -56,29 +63,24 @@
 ## 6. 아키텍처
 ### 6.1 ERD 설계
 ![ERD](https://user-images.githubusercontent.com/41135138/210931808-78d3f9c2-0c5c-4fd8-bcfc-c8719a5d8d65.png)
-
 ### 6.2 아키텍쳐 설계
 ![아키텍쳐설계](https://user-images.githubusercontent.com/41135138/210468355-a1f91d4a-9280-46b0-8307-f94ede63c7e7.PNG)
-## 7. 환경설정
+
+## 7. 사용기술
 
 ### Front-End
-![image](https://user-images.githubusercontent.com/41135138/210484689-e8bfc523-80cd-4c1b-9bb8-43a864f1babc.png)
-![image](https://user-images.githubusercontent.com/41135138/210484717-49f28050-5b8d-433f-ab10-e6084df3989e.png)
-![image](https://user-images.githubusercontent.com/41135138/210484721-2776d5ca-1b5d-4aaf-bedf-2d91e9122e5b.png)
-![image](https://user-images.githubusercontent.com/41135138/210484736-4ded368a-4a68-473d-8df4-997f919b8a6a.png)
-![image](https://user-images.githubusercontent.com/41135138/210484740-85356785-6de2-4350-9bfc-11806bc72ef5.png)
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrapap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white"/>
 
 ### Back-End
-![image](https://user-images.githubusercontent.com/41135138/210484787-ecc61a61-1817-4879-9209-5e419161b567.png)
-![image](https://user-images.githubusercontent.com/41135138/210485384-d7071497-e70f-4aca-820b-c97dd94bb1b8.png)
-![image](https://user-images.githubusercontent.com/41135138/210484803-e4839f96-5f73-4253-aad6-4b44bbb1e811.png)
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
 
 ### AI Model
-![image](https://user-images.githubusercontent.com/41135138/210484818-362e9daf-18ea-48a6-b931-2eeac4666ded.png)
-![image](https://user-images.githubusercontent.com/41135138/210484823-accd60fc-07e9-4334-9b26-060207de3837.png)
-
-
-## 8. 팀소개
-![team](https://user-images.githubusercontent.com/41135138/210491903-b33a1305-fa00-4b20-be00-9c7a66c81e15.png)
-
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
 
